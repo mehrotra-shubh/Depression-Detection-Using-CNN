@@ -1,0 +1,3 @@
+# Depression-Detection-Using-CNN
+
+In this project i had used Convolutional Neural Network to process and train on the image dataset, CNN helps better in feature extraction and processing fastly on the image data. The dataset is containing the images of depression and neutral emotions of the human beings in the gray scale format. In this project i had done the binary classification with softmax as the activation function in the last layer and i used Batch normalization, Dropout layers and Early stopping to avoid overfitting of the data. And finally i used Adam optimizer for back propagation. I got a test accuracy of 67%. So using this model we can predict the depression in any human face with accuracy of prediction.
